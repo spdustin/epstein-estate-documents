@@ -1,0 +1,48 @@
+{
+  "from_name": "Richard Kahn",
+  "from_email": "[REDACTED]",
+  "to": [
+    {
+      "to_name": "Jeffrey E.",
+      "to_email": "jeeyacation@gmail.com"
+    }
+  ],
+  "sent": "2016-12-15T17:40:04Z",
+  "importance": "HIGH",
+  "subject": "Fwd: 2016 Election: Tax Changes Expected",
+  "attachments": [
+    "image001.png",
+    "Untitled attachment 417590.htm",
+    "Tax Alert 2016-5.pdf",
+    "Untitled attachment 417593.htm"
+  ],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "Richard Kahn\nHBRK Associates Inc.\n575 Lexington Avenue 4th Floor\nNew York, NY 10022\ntel 212-371-1306\nfax 646-355-0954\ncell 917-414-7584\n\nBegin forwarded message:"
+    },
+    {
+      "message_type": "forward",
+      "message_content": {
+        "from_name": "Amanda Ens",
+        "from_email": "[REDACTED]",
+        "to": [
+          {
+            "to_name": "Richard Kahn",
+            "to_email": "[REDACTED]"
+          }
+        ],
+        "sent": "2016-12-15T09:51:37-05:00",
+        "importance": null,
+        "subject": "2016 Election: Tax Changes Expected",
+        "attachments": [],
+        "body": [
+          {
+            "message_type": "message",
+            "message_content": "Rich, following up on your question from a while back about this topic. Please find a white paper attached.\n\nRegards,\nAmanda\n\nThe election of Donald Trump as President is expected to lead to significant tax law changes. The tax changes may come in two parts: from the repeal of the Affordable Care Act and its related taxes and from comprehensive tax reform. Since Republicans will also have majorities in both the House and Senate, such changes could be undertaken without bipartisan support. Although it is not yet known exactly what the changes will be or when they would be effective, we are issuing this Tax Alert to inform you of changes that are anticipated, based on proposals made during the campaign by both President-elect Trump and the House Republicans. We also discuss how these changes may impact your planning, both currently and in the future.\n\nAmanda Ens\nDirector\nBank of America Merrill Lynch\nMerrill Lynch, Pierce, Fenner & Smith Incorporated\nOne Bryant Park, 5th Floor, New York, NY 10036"
+          }
+        ]
+      }
+    }
+  ]
+}
