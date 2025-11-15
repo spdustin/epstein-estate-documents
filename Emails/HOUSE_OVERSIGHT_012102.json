@@ -1,0 +1,20 @@
+{
+  "from_name": "J",
+  "from_email": "jeevacation@gmail.com",
+  "to": [
+    {
+      "to_name": "Nicholas Ribis",
+      "to_email": "[REDACTED]"
+    }
+  ],
+  "sent": "2019-05-07T16:29:00Z",
+  "importance": "HIGH",
+  "subject": "RE:",
+  "attachments": [],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "https://www.nytimes.com/2019/05/06/us/politics/trump-inauguration-stephanie-winston-wolkoff.html?action=click&module=Top%20Stories&pgtype=Homepage"
+    }
+  ]
+}

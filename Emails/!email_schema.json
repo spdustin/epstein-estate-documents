@@ -1,0 +1,131 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/schemas/email-thread.schema.json",
+  "title": "EmailConversation",
+  "description": "Used to represent an email conversation thread. When processing:\n- pay close attention to redacted elements (usually with a black bar)\n- disregard signatures, disclaimers, and other footers\n- be aware that a message body may be split over multiple images\n- if images are encountered in the email conversation being processed, note how they should be output in the message_content property description.",
+  "type": "object",
+
+  "properties": {
+    "from_name": { "type": "string" },
+    "from_email": { "type": "string", "format": "email" },
+
+    "to": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/recipient"
+      }
+    },
+
+    "sent": {
+      "type": "string",
+      "format": "date-time"
+    },
+
+    "importance": {
+      "type": ["string", "null"],
+      "enum": ["LOW", "NORMAL", "HIGH", null]
+    },
+
+    "subject": { "type": "string" },
+
+    "attachments": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+
+    "body": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/bodyEntry"
+      }
+    }
+  },
+
+  "required": [
+    "from_name",
+    "from_email",
+    "to",
+    "sent",
+    "subject",
+    "body"
+  ],
+
+  "$defs": {
+    "recipient": {
+      "type": "object",
+      "properties": {
+        "to_name": { "type": "string" },
+        "to_email": { "type": "string", "format": "email" }
+      },
+      "required": ["to_name", "to_email"]
+    },
+
+    "bodyEntry": {
+      "type": "object",
+      "properties": {
+        "message_type": {
+          "type": "string",
+          "enum": [
+            "message",
+            "quoted_reply",
+            "forward"
+          ]
+        },
+
+        "message_content": {
+          "oneOf": [
+            {
+              "type": "string",
+              "description": "Body text when message_type = message. Markdown is allowed if the original message content contains text formatting. However, images should be treated as follows: Blank/unreadable images output as `[IMAGE]\n(blank or unavailable)\n[/IMAGE]`; images that are photos, drawings or screenshots output with descriptive text, as in this example `[IMAGE]\n(screenshot of tweet)\nTweet from @johndoe \"Well, at least their drummers have a sense of rhythm.\" with 2,324 likes, 419 retweets/quotes, and 117 replies\n[/IMAGE]`"
+            },
+            {
+              "$ref": "#/$defs/emailConversation",
+              "description": "Nested email when message_type is quoted_reply or forward"
+            }
+          ]
+        }
+      },
+      "required": ["message_type", "message_content"]
+    },
+
+    "emailConversation": {
+      "type": "object",
+      "properties": {
+        "from_name": { "type": "string" },
+        "from_email": { "type": "string", "format": "email" },
+
+        "to": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/recipient" }
+        },
+
+        "sent": { "type": "string", "format": "date-time" },
+
+        "importance": {
+          "type": ["string", "null"],
+          "enum": ["LOW", "NORMAL", "HIGH", null]
+        },
+
+        "subject": { "type": "string" },
+
+        "attachments": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+
+        "body": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/bodyEntry" }
+        }
+      },
+      "required": [
+        "from_name",
+        "from_email",
+        "to",
+        "sent",
+        "subject",
+        "body"
+      ]
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "from_name": "Nicholas Ribis",
+  "from_email": "[REDACTED]",
+  "to": [
+    {
+      "to_name": "J",
+      "to_email": "jeevacation@gmail.com"
+    }
+  ],
+  "sent": "2019-05-07T13:53:22Z",
+  "importance": "HIGH",
+  "subject": "RE:",
+  "attachments": [],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "More bad news for our friend"
+    },
+    {
+      "message_type": "quoted_reply",
+      "message_content": {
+        "from_name": "J",
+        "from_email": "jeevacation@gmail.com",
+        "to": [
+          {
+            "to_name": "Nicholas Ribis",
+            "to_email": "[REDACTED]"
+          }
+        ],
+        "sent": "2019-05-07T12:29:00Z",
+        "importance": null,
+        "subject": null,
+        "attachments": [],
+        "body": [
+          {
+            "message_type": "message",
+            "message_content": "https://www.nytimes.com/2019/05/06/us/politics/trump-inauguration-stephanie-winston-wolkoff.html?action=click&module=Top%20Stories&pgtype=Homepage"
+          }
+        ]
+      }
+    }
+  ]
+}

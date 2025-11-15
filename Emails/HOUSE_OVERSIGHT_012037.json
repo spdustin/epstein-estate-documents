@@ -1,0 +1,101 @@
+{
+  "from_name": "jeffrey E.",
+  "from_email": "jeevacation@gmail.com",
+  "to": [
+    {
+      "to_name": "Kathy Ruemmler",
+      "to_email": "[REDACTED]"
+    }
+  ],
+  "sent": "2016-08-15T12:09:58Z",
+  "importance": null,
+  "subject": "Re: Press: AmLaw Litigation Daily on Emirates Bank win",
+  "attachments": [],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "Did you write this 🎭?"
+    },
+    {
+      "message_type": "quoted_reply",
+      "message_content": {
+        "from_name": "[REDACTED]",
+        "from_email": "[REDACTED]",
+        "to": [
+          {
+            "to_name": "[REDACTED]",
+            "to_email": "[REDACTED]"
+          }
+        ],
+        "sent": "2016-08-15T06:00:12Z",
+        "importance": null,
+        "subject": "FW: Press: AmLaw Litigation Daily on Emirates Bank win",
+        "attachments": [],
+        "body": [
+          {
+            "message_type": "forward",
+            "message_content": {
+              "from_name": "Schecter, Daniel (CC)",
+              "from_email": "[REDACTED]",
+              "to": [
+                {
+                  "to_name": "[REDACTED]",
+                  "to_email": "[REDACTED]"
+                },
+                {
+                  "to_name": "Cleaves, John (LA)",
+                  "to_email": "[REDACTED]"
+                }
+              ],
+              "sent": "2016-08-15T00:57:00Z",
+              "importance": null,
+              "subject": "FW: Press: LA Times - Federal jury decides Middle East bank did not defraud Orange County entrepreneur",
+              "attachments": [],
+              "body": [
+                {
+                  "message_type": "message",
+                  "message_content": "AmLaw Daily story just posted. See below."
+                },
+                {
+                  "message_type": "forward",
+                  "message_content": {
+                    "from_name": "Pizzurro, Frank (LA)",
+                    "from_email": "[REDACTED]",
+                    "to": [
+                      {
+                        "to_name": "Schecter, Daniel (CC)",
+                        "to_email": "[REDACTED]"
+                      },
+                      {
+                        "to_name": "Dunlavey, Dean (OC)",
+                        "to_email": "[REDACTED]"
+                      },
+                      {
+                        "to_name": "Nina (LA)",
+                        "to_email": "[REDACTED]"
+                      },
+                      {
+                        "to_name": "[REDACTED]",
+                        "to_email": "[REDACTED]"
+                      }
+                    ],
+                    "sent": "2016-08-14T21:51:00Z",
+                    "importance": null,
+                    "subject": "Press: LA Times - Federal jury decides Middle East bank did not defraud Orange County entrepreneur",
+                    "attachments": [],
+                    "body": [
+                      {
+                        "message_type": "message",
+                        "message_content": "I'll soon send a cleaner version of this and other coverage, but wanted to share the article just posted in the AmLaw Litigation Daily. A personal thanks to Dan for speaking in this matter, to our reporter, and Nina for feeding us case documents and insights.\n\nhttp://m.litigationdaily.com/#/article/12027650525?1/1/A%20Master%20at%20Work:%20Dissecting%20the%20Closing%20Argument%20in%20Latham's%20Huge%20Win%20for%20Middle%20Eastern%20Bank\n\nA Master at Work: Dissecting the Closing Argument in Latham's Huge Win for Middle Eastern Bank\nJenna Greene, 08/14/2016\n\nFor Latham & Watkins, defending a Middle Eastern bank accused of stealing trade secrets from a plucky American entrepreneur could have been a tough sell to a federal jury in Orange County, California.\n\nThe Dubai-based bank, in turn, denied it stole or ever used InfoSpan's technology. It argued that it cancelled the partnership because InfoSpan couldn't produce a working product and misled it into thinking it was an established company, not one with little to no track record.\n\nAfter deliberating for a day, the jury unanimously decided that InfoSpan did not prove its case of fraud and theft of trade secrets.\n\nInfoSpan had asked for $540 million in damages. An attorney for InfoSpan declined to comment on the verdict.\n\nOn the stand, he cried when he spoke about the ordeal.\n\nIsaacson, in his closing repeatedly called it extortion. \"Because when the bank held Mr. Scudder's passport--I'm sorry, caused his passport to hold, that just didn't cause personal pain for Mr. Scudder,\" he said. \"What it did was give the opportunity for the bank to control the technology, to control the brand, because InfoSpan couldn't compete in the UAE because of the fears that this type of thing would happen. And it also gave him the opportunity to try and extort money and control of the technology from InfoSpan.\"\n\nHow do you counter that?\n\nRuemmler was not available for an interview, but Schecter said pretrial research showed people expect that if you do business overseas, you'll comply with the laws of the foreign country. And in UAE, this is how they handle fraud.\n\n\"Judge Selna has instructed you that filing a criminal complaint in Dubai for fraud is a common practice and that if you've been cheated, that's what you're supposed to do,\" Ruemmler said.\n\nWhat about Scudder's emotional testimony?\n\nShe undercut it without coming across as callous--a fine line.\n\n\"Now, I have to mention the tears. And this is the only thing I'm going to say about it,\" Ruemmler said. \"He was detained for less than 24 hours, nine years ago; and then, he was in his corporate apartment and had $300,000 to live on. I'm just going to say this: I will leave it to you to evaluate the sincerity of those tears in light of all the other evidence that you have heard in this case.\"\n\nAnd then she immediately talked about how he \"basically had faked a document.\"\n\nIt worked. After about a day of deliberation, the jury found across the board for Emirates NBD Bank.\n\n\"It was a binary case--either they lied or we lied,\" said Schecter. \"The plaintiff's strategy was all or nothing. There were zero off-ramps for the jury.\"\n\nThe Latham team also included counsel Andrew Fossum and associates Nima Mohebbi, Stephanie Grace, Jonathan Sandler, Jacquelyn Levien, Elizabeth Greenman, Pushkal Mishra and Tom Rickeman.\n\nIn a statement to The Lit Daily, Lubna Qassim, chief group general counsel and company secretary of the Emirates NBD, said, \"While there was no basis for this case being tried in U.S. courts, Emirates NBD Bank is deeply gratified by the jury's decision and appreciates the court's commitment to ensuring a fair trial.\"\n\nContact Jenna Greene at [REDACTED] or on Twitter@jgreenajenna."
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

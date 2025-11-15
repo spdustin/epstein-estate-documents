@@ -1,0 +1,273 @@
+{
+  "from_name": "J",
+  "from_email": "jeevacation@gmail.com",
+  "to": [
+    {
+      "to_name": "Joichi Ito",
+      "to_email": "[REDACTED]"
+    }
+  ],
+  "sent": "2019-05-06T11:15:00Z",
+  "importance": null,
+  "subject": "Re: $25K from ASU",
+  "attachments": [],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "send details ."
+    },
+    {
+      "message_type": "quoted_reply",
+      "message_content": {
+        "from_name": "Joichi Ito",
+        "from_email": "[REDACTED]",
+        "to": [
+          {
+            "to_name": "J",
+            "to_email": "jeevacation@gmail.com"
+          }
+        ],
+        "sent": "2019-05-06T07:14:00Z",
+        "importance": null,
+        "subject": "Re: $25K from ASU",
+        "attachments": [],
+        "body": [
+          {
+            "message_type": "message",
+            "message_content": "Can he give a gift to me at MIT?"
+          },
+          {
+            "message_type": "quoted_reply",
+            "message_content": {
+              "from_name": "J",
+              "from_email": "jeevacation@gmail.com",
+              "to": [
+                {
+                  "to_name": "Joichi Ito",
+                  "to_email": "[REDACTED]"
+                }
+              ],
+              "sent": "2019-05-06T06:56:00Z",
+              "importance": null,
+              "subject": "Re: $25K from ASU",
+              "attachments": [],
+              "body": [
+                {
+                  "message_type": "message",
+                  "message_content": "yes, hes not beholden to ME too :). how should farkas give the money"
+                },
+                {
+                  "message_type": "quoted_reply",
+                  "message_content": {
+                    "from_name": "Joichi Ito",
+                    "from_email": "[REDACTED]",
+                    "to": [
+                      {
+                        "to_name": "J",
+                        "to_email": "jeevacation@gmail.com"
+                      }
+                    ],
+                    "sent": "2019-05-06T06:52:00Z",
+                    "importance": null,
+                    "subject": "Re: $25K from ASU",
+                    "attachments": [],
+                    "body": [
+                      {
+                        "message_type": "message",
+                        "message_content": "That would be great. I’ve been busy, but good. How are you? Heard you saw Madars."
+                      },
+                      {
+                        "message_type": "quoted_reply",
+                        "message_content": {
+                          "from_name": "J",
+                          "from_email": "jeevacation@gmail.com",
+                          "to": [
+                            {
+                              "to_name": "Joichi Ito",
+                              "to_email": "[REDACTED]"
+                            }
+                          ],
+                          "sent": "2019-05-06T06:48:00Z",
+                          "importance": null,
+                          "subject": "",
+                          "attachments": [],
+                          "body": [
+                            {
+                              "message_type": "message",
+                              "message_content": "i can have andrew farkas , he gave a building to the hasty pudding harvard. fund plant guys. how are you >?"
+                            },
+                            {
+                              "message_type": "quoted_reply",
+                              "message_content": {
+                                "from_name": "Joichi Ito",
+                                "from_email": "[REDACTED]",
+                                "to": [
+                                  {
+                                    "to_name": "J",
+                                    "to_email": "jeevacation@gmail.com"
+                                  }
+                                ],
+                                "sent": "2019-04-18T08:23:00Z",
+                                "importance": null,
+                                "subject": "",
+                                "attachments": [],
+                                "body": [
+                                  {
+                                    "message_type": "message",
+                                    "message_content": "Nice."
+                                  },
+                                  {
+                                    "message_type": "quoted_reply",
+                                    "message_content": {
+                                      "from_name": "J",
+                                      "from_email": "jeevacation@gmail.com",
+                                      "to": [
+                                        {
+                                          "to_name": "Joichi Ito",
+                                          "to_email": "[REDACTED]"
+                                        }
+                                      ],
+                                      "sent": "2019-04-18T08:03:00Z",
+                                      "importance": null,
+                                      "subject": "",
+                                      "attachments": [],
+                                      "body": [
+                                        {
+                                          "message_type": "message",
+                                          "message_content": "https://www.nytimes.com/2019/04/18/opinion/sunday/oliver-_sacks-gardens.html?action=click&module=Opinion&pgtype=Homepage"
+                                        },
+                                        {
+                                          "message_type": "quoted_reply",
+                                          "message_content": {
+                                            "from_name": "Joichi Ito",
+                                            "from_email": "[REDACTED]",
+                                            "to": [
+                                              {
+                                                "to_name": "J",
+                                                "to_email": "jeevacation@gmail.com"
+                                              }
+                                            ],
+                                            "sent": "2019-03-04T11:08:00Z",
+                                            "importance": null,
+                                            "subject": "",
+                                            "attachments": [],
+                                            "body": [
+                                              {
+                                                "message_type": "message",
+                                                "message_content": "I’m good. Good luck!"
+                                              },
+                                              {
+                                                "message_type": "quoted_reply",
+                                                "message_content": {
+                                                  "from_name": "J",
+                                                  "from_email": "jeevacation@gmail.com",
+                                                  "to": [
+                                                    {
+                                                      "to_name": "Joichi Ito",
+                                                      "to_email": "[REDACTED]"
+                                                    }
+                                                  ],
+                                                  "sent": "2019-03-04T07:45:00Z",
+                                                  "importance": null,
+                                                  "subject": "",
+                                                  "attachments": [],
+                                                  "body": [
+                                                    {
+                                                      "message_type": "message",
+                                                      "message_content": "brutal press. . sorry . it seems im a symbol for all ills. :). if you hate the rich, the men , the trump types . im your boy . at least for the moment. . hope you are well"
+                                                    },
+                                                    {
+                                                      "message_type": "quoted_reply",
+                                                      "message_content": {
+                                                        "from_name": "Joichi Ito",
+                                                        "from_email": "[REDACTED]",
+                                                        "to": [
+                                                          {
+                                                            "to_name": "J",
+                                                            "to_email": "jeevacation@gmail.com"
+                                                          }
+                                                        ],
+                                                        "sent": "2019-02-28T13:24:00Z",
+                                                        "importance": null,
+                                                        "subject": "",
+                                                        "attachments": [],
+                                                        "body": [
+                                                          {
+                                                            "message_type": "message",
+                                                            "message_content": "Thanks!"
+                                                          },
+                                                          {
+                                                            "message_type": "quoted_reply",
+                                                            "message_content": {
+                                                              "from_name": "J",
+                                                              "from_email": "jeevacation@gmail.com",
+                                                              "to": [
+                                                                {
+                                                                  "to_name": "Joichi Ito",
+                                                                  "to_email": "[REDACTED]"
+                                                                }
+                                                              ],
+                                                              "sent": "2019-02-28T13:18:00Z",
+                                                              "importance": null,
+                                                              "subject": "",
+                                                              "attachments": [],
+                                                              "body": [
+                                                                {
+                                                                  "message_type": "message",
+                                                                  "message_content": "No problem- Trying to get more black for you"
+                                                                },
+                                                                {
+                                                                  "message_type": "quoted_reply",
+                                                                  "message_content": {
+                                                                    "from_name": "Joichi Ito",
+                                                                    "from_email": "[REDACTED]",
+                                                                    "to": [
+                                                                      {
+                                                                        "to_name": "J",
+                                                                        "to_email": "jeevacation@gmail.com"
+                                                                      }
+                                                                    ],
+                                                                    "sent": "2019-02-28T13:10:00Z",
+                                                                    "importance": null,
+                                                                    "subject": "",
+                                                                    "attachments": [],
+                                                                    "body": [
+                                                                      {
+                                                                        "message_type": "message",
+                                                                        "message_content": "Hey Jeffrey.\n\nHow are things?\n\nJust to let you know. We were able to keep the Leon Black money, but the $25K from your foundation is getting bounced by MIT back to ASU.\n\nSorry…"
+                                                                      }
+                                                                    ]
+                                                                  }
+                                                                }
+                                                              ]
+                                                            }
+                                                          }
+                                                        ]
+                                                      }
+                                                    }
+                                                  ]
+                                                }
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

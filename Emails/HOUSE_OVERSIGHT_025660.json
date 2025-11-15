@@ -1,0 +1,181 @@
+{
+  "from_name": "jeffrey E.",
+  "from_email": "jeevacation@gmail.com",
+  "to": [
+    {
+      "to_name": "Kathy Ruemmler",
+      "to_email": "[REDACTED]"
+    }
+  ],
+  "sent": "2018-02-25T22:33:32Z",
+  "importance": null,
+  "subject": "Re:",
+  "attachments": [],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "Yup"
+    },
+    {
+      "message_type": "quoted_reply",
+      "message_content": {
+        "from_name": "Kathy Ruemmler",
+        "from_email": "[REDACTED]",
+        "to": [
+          {
+            "to_name": "jeffrey E.",
+            "to_email": "jeevacation@gmail.com"
+          }
+        ],
+        "sent": "2018-02-25T17:30:00Z",
+        "importance": null,
+        "subject": "Re:",
+        "attachments": [],
+        "body": [
+          {
+            "message_type": "message",
+            "message_content": "Barf."
+          },
+          {
+            "message_type": "quoted_reply",
+            "message_content": {
+              "from_name": "jeffrey E.",
+              "from_email": "jeevacation@gmail.com",
+              "to": [
+                {
+                  "to_name": "Kathy Ruemmler",
+                  "to_email": "[REDACTED]"
+                }
+              ],
+              "sent": "2018-02-25T17:29:00Z",
+              "importance": null,
+              "subject": "Re:",
+              "attachments": [],
+              "body": [
+                {
+                  "message_type": "message",
+                  "message_content": "she said he wants her to do wife like things. ugh"
+                },
+                {
+                  "message_type": "quoted_reply",
+                  "message_content": {
+                    "from_name": "Kathy Ruemmler",
+                    "from_email": "[REDACTED]",
+                    "to": [
+                      {
+                        "to_name": "jeffrey E.",
+                        "to_email": "jeevacation@gmail.com"
+                      }
+                    ],
+                    "sent": "2018-02-25T17:05:00Z",
+                    "importance": null,
+                    "subject": "Re:",
+                    "attachments": [],
+                    "body": [
+                      {
+                        "message_type": "message",
+                        "message_content": "Uh oh — You dimed out [REDACTED]\n\nWhat is Benjamin upset about?"
+                      },
+                      {
+                        "message_type": "quoted_reply",
+                        "message_content": {
+                          "from_name": "jeffrey E.",
+                          "from_email": "jeevacation@gmail.com",
+                          "to": [
+                            {
+                              "to_name": "Kathy Ruemmler",
+                              "to_email": "[REDACTED]"
+                            }
+                          ],
+                          "sent": "2018-02-25T16:30:00Z",
+                          "importance": null,
+                          "subject": "Re:",
+                          "attachments": [],
+                          "body": [
+                            {
+                              "message_type": "message",
+                              "message_content": "onlyu slightly. ariane said ben giving her a very hard time, and did not know about tattoo"
+                            },
+                            {
+                              "message_type": "quoted_reply",
+                              "message_content": {
+                                "from_name": "Kathy Ruemmler",
+                                "from_email": "[REDACTED]",
+                                "to": [
+                                  {
+                                    "to_name": "jeffrey E.",
+                                    "to_email": "jeevacation@gmail.com"
+                                  }
+                                ],
+                                "sent": "2018-02-25T16:28:00Z",
+                                "importance": null,
+                                "subject": "Re:",
+                                "attachments": [],
+                                "body": [
+                                  {
+                                    "message_type": "message",
+                                    "message_content": "While he might like to, his lawyer would advise him against it. :-)\n\nAre you feeling better today?"
+                                  },
+                                  {
+                                    "message_type": "quoted_reply",
+                                    "message_content": {
+                                      "from_name": "jeffrey E.",
+                                      "from_email": "jeevacation@gmail.com",
+                                      "to": [
+                                        {
+                                          "to_name": "Kathy Ruemmler",
+                                          "to_email": "[REDACTED]"
+                                        }
+                                      ],
+                                      "sent": "2018-02-25T16:17:00Z",
+                                      "importance": null,
+                                      "subject": "",
+                                      "attachments": [],
+                                      "body": [
+                                        {
+                                          "message_type": "message",
+                                          "message_content": "Steve Bannon\n\nFeb 24 (1 day ago)\n\nto me\n\nhttps://www.politico.com/story/2018/02/23/susan-rice-lawyer-obama-administration-classified-intelligence-michael-flynn-trump-423437"
+                                        },
+                                        {
+                                          "message_type": "quoted_reply",
+                                          "message_content": {
+                                            "from_name": "jeffrey E.",
+                                            "from_email": "jeevacation@gmail.com",
+                                            "to": [
+                                              {
+                                                "to_name": "Kathy Ruemmler",
+                                                "to_email": "[REDACTED]"
+                                              }
+                                            ],
+                                            "sent": "2018-02-24T00:00:00Z",
+                                            "importance": null,
+                                            "subject": "",
+                                            "attachments": [],
+                                            "body": [
+                                              {
+                                                "message_type": "message",
+                                                "message_content": "do you think Bill Clinton would like to join you me ehud and steve.? could be very funny, all off the record."
+                                              }
+                                            ]
+                                          }
+                                        }
+                                      ]
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "from_name": "Jeffrey Epstein",
+  "from_email": "jeevacation@gmail.com",
+  "to": [
+    {
+      "to_name": "Eric Roth",
+      "to_email": "[REDACTED]"
+    }
+  ],
+  "sent": "2011-06-27T16:45:11Z",
+  "importance": null,
+  "subject": "Re: Gulfstream V - offmarket, sleeper aircraft",
+  "attachments": ["image001.jpg"],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "of course i will speak send me his number , or have him call 212 750 9895"
+    },
+    {
+      "message_type": "quoted_reply",
+      "message_content": {
+        "from_name": "Eric Roth",
+        "from_email": "[REDACTED]",
+        "to": [
+          {
+            "to_name": "Jeffrey Epstein",
+            "to_email": "jeevacation@gmail.com"
+          }
+        ],
+        "sent": "2011-06-27T12:17:00Z",
+        "importance": null,
+        "subject": "Re: Gulfstream V - offmarket, sleeper aircraft",
+        "attachments": [],
+        "body": [
+          {
+            "message_type": "message",
+            "message_content": "Jeffrey-\n\nI need to start off by stating that it is not my intent to go around Shawn Lancaster on this – Shawn is a friend.\n\nThis being said, I have received e-mails from both you and Larry this weekend.\n\nI called Larry and he said I should send you an e-mail.\n\nI called a close friend of mine inquiring about the GV market and aircraft that are \"not published\". As of today, there are eight (8) of these aircraft that are not yet on the market.\n\nLet me know if you would like to speak with him and by what means (you call him, he call you, call Larry?....whatever).\n\nBy the way, his company sold Trump's 727 and got Trump a very attractive number for an aircraft that was on its way to a museum.\n\nHope all is well."
+          },
+          {
+            "message_type": "quoted_reply",
+            "message_content": {
+              "from_name": "Jeffrey Epstein",
+              "from_email": "jeevacation@gmail.com",
+              "to": [
+                {
+                  "to_name": "Eric Roth",
+                  "to_email": "[REDACTED]"
+                }
+              ],
+              "sent": "2011-06-25T00:29:00Z",
+              "importance": null,
+              "subject": "Re:",
+              "attachments": [],
+              "body": [
+                {
+                  "message_type": "message",
+                  "message_content": "not yet"
+                },
+                {
+                  "message_type": "quoted_reply",
+                  "message_content": {
+                    "from_name": "Eric Roth",
+                    "from_email": "[REDACTED]",
+                    "to": [
+                      {
+                        "to_name": "Jeffrey Epstein",
+                        "to_email": "jeevacation@gmail.com"
+                      }
+                    ],
+                    "sent": "2011-06-24T20:20:00Z",
+                    "importance": null,
+                    "subject": "Re:",
+                    "attachments": [],
+                    "body": [
+                      {
+                        "message_type": "message",
+                        "message_content": "Any photos? Serial number?"
+                      },
+                      {
+                        "message_type": "quoted_reply",
+                        "message_content": {
+                          "from_name": "Jeffrey Epstein",
+                          "from_email": "jeevacation@gmail.com",
+                          "to": [
+                            {
+                              "to_name": "Eric Roth",
+                              "to_email": "[REDACTED]"
+                            }
+                          ],
+                          "sent": "2011-06-24T19:56:00Z",
+                          "importance": null,
+                          "subject": "Re:",
+                          "attachments": [],
+                          "body": [
+                            {
+                              "message_type": "message",
+                              "message_content": "eric,, price for a re-rag , new seats , g-v , paint and interior, plus approx time after choosing fabrics etc."
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

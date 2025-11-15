@@ -1,0 +1,61 @@
+{
+  "from_name": "Lawrence Krauss",
+  "from_email": "[REDACTED]",
+  "to": [
+    {
+      "to_name": "jeffrey E.",
+      "to_email": "jeevacation@gmail.com"
+    }
+  ],
+  "sent": "2018-04-05T22:16:55Z",
+  "importance": "HIGH",
+  "subject": "Re:",
+  "attachments": [],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "Let's do a men of the world conference.\n\nKevin spacey\nBill Clinton\nAl franken\nWoody Allen\n...."
+    },
+    {
+      "message_type": "quoted_reply",
+      "message_content": {
+        "from_name": "Lawrence Krauss",
+        "from_email": "[REDACTED]",
+        "to": [
+          {
+            "to_name": "jeffrey E.",
+            "to_email": "[REDACTED]"
+          }
+        ],
+        "sent": "2018-04-05T14:04:00Z",
+        "importance": null,
+        "subject": null,
+        "attachments": [],
+        "body": [
+          {
+            "message_type": "message",
+            "message_content": "Enjoy."
+          },
+          {
+            "message_type": "quoted_reply",
+            "message_content": {
+              "from_name": "Tina Brown",
+              "from_email": "[REDACTED]",
+              "to": [],
+              "sent": "[REDACTED]",
+              "importance": null,
+              "subject": null,
+              "attachments": [],
+              "body": [
+                {
+                  "message_type": "message",
+                  "message_content": "The Women in the World Summit opens April 12 and runs through April 14 with a power packed agenda of remarkable female newsmakers sharing their stories of male misbehaviors.\n\nConfidential agenda enclosed here.\n\nFull list of participants below.\n\nAfiah Nasser\nAlyse Nelson\nAmbra Gutierrez\nAndrea Mitchell\nAsia Argento\nAstrid Cantor\nAthena Jones\nBarbara Lynch\nBianna Golodryga\nBushra Aldukhainah\nCarmen Rita Wong\nCarrie Gracie\nFirst Lady Chirlane McCray\nChrista Quarles\nCindi Leive\nCynthia McFadden\nDambisa Moyo\nDanya Sherman\nDara Khosrowshahi\nDelaney Tarr\nDominique Crenn\nDiane von Furstenberg\nFee Temelkuran\nEmily Kennedy\nEva Lewis\nFederica Davila\nDr. Fozia Alvi\nGillian Tett\nHarris Faulkner\nHillary Clinton\nHolly Harris\nJacquelyn Birdsall\nJameela Jamil\nJanis McGrory\nJennifer Rademaker\nJoanna Coles\nJoy Nash\nJoy-Ann Reid\nJuju Chang\nJulianna Margulies\nKatie Couric\nKaty Tur\nKaren Minkel\nSenator Kirsten Gillibrand\nPresident Laura Boldrini\nLaura Wasser\nLeah Busque\nLeila Hoteit\nLesley Stahl\nLeymah Gbowee\nSenator Lisa Murkowski\nMadeleine Habib\nMargaret Atwood\nMarkus Strobel\nMarti Noxon\nMaxeme Tuchman\nMaye Musk\nMelissa Arnoldi\nMichaela Angela Davis\nMichelle Goldberg\nMindy Grossman\nMisty Copeland\nNaomi Wadler\nNicholas Kristof, honorary female\nNorah O'Donnell\nPatricia Evangelista\nPaula Polito\nPerri Peltz\nRobin Roberts\nRonan Farrow, honorary female\nRula Jebreal\nSade Baderinwa\nSally Yates\nSaru Jayaraman\nSheila Nevins\nSophie Gregoire Trudeau\nStephanie Mehta\nSunitha Krishnan\nDr. Suzanne Barakat\nTamara Chergoleishvili\nTerry Crews\nTopeka Sam\nViola Davis\nYevgenia Albats\nZainab Salbi"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

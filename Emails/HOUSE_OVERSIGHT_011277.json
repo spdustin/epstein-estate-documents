@@ -1,0 +1,53 @@
+{
+  "from_name": "Ens, Amanda",
+  "from_email": "[REDACTED]",
+  "to": [
+    {
+      "to_name": "Jeffrey E.",
+      "to_email": "jeevacation@gmail.com"
+    },
+    {
+      "to_name": "Rich Kahn",
+      "to_email": "[REDACTED]"
+    }
+  ],
+  "sent": "2016-12-09T15:46:19Z",
+  "importance": "HIGH",
+  "subject": "RE: Financials: buy XLF call spreads",
+  "attachments": [
+    "image001.png"
+  ],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "We continue to see further upside in financials.\n\n• Erika Najarian, BAML financials research analyst, just returned from a marketing trip. Bottom line: North American investors are very bullish the banks (long only AND hedge funds AND macro funds), but they conclude \"I don't own enough\". Note that high touch flows have slowed down significantly since Thanksgiving and where the bunches have been concentrated in XLF (every client sector we have has been a better buyer of XLF).\n\n**Client focus:**\n1) Regulation: Excitement, with the base case that it's not getting worse.\n2) Sentiment on rates: Cautiously bullish\n3) Sentiment on growth: Also bullish\n4) Sentiment on corporate tax rate cuts: buyside more bullish than sellside. In 1986, bank stocks exploded upward (outperforming the S&P) after Reagan's tax reform bill passed the Senate; and 2) in 2003, the last time we saw personal tax cuts, high quality stocks accelerated in 2003 and 2004.\n\n**Biggest Pushback on owning sector at current levels:** Top far too fast: Buybacks coming into question and Q4 has typically been a seasonally weak qtr. Bulls defend valuation on \"18bsts with potential upside to 2018 EPS (long term basis 2018 EPS long term \")\n- Price action and sentiment keeps us constructive, we like the long and would expect US financials to benefit from any beta chase into year end.\n\n**How to play it?** We still like \"appearing\" call spreads on XLF\n- Buy a 6 month 105% call with a short 110% call that knocks in of XLF trades above 115% during the life of the trade for 1.75% premium calls.\n- Gross max payoff if knock-in is triggered: 2.8x (5.0%/1.75%)\n- Gross max payoff if knock-in is not triggered: 5.6x (9.9%/1.75%) - you have upside up to 114.9%\n\nWe continue to see further upside in financials. Underweight positioning, buybacks resuming, positive momentum and strong fundamentals all indicate that there is still further upside potential in financials (more details below). Our financials sector specialist thinks XLF could have another 20-25% upside given the recent near-term levels to. There Trade: less regulation, higher interest rates, higher rates, higher growth, loan growth, etc. The asset sensitive regional banks are more of a pure play on a rates move but we view the larger cap banks as having multi-year upside given the aforementioned points.\n\nThat said, given the velocity and magnitude of the recent move and uncertainty around the impact and timing of Trump's policies, we believe options offer better risk-reward than being outright long financials stocks here. With flat call skew, \"appearing\" call spreads with upside knock-ins price well.\n\n**Buy a 1 year XLF call spread for 2.6% premium**\n- Buy a 110% call\n- Sell a 117.5% call with an at-expiry knock-in at 125% (call is not active unless XLF is 125% or higher at expiry)\n- Total premium is 2.6%\n- Gross max payoff if knock-in is triggered: 2.9x (7.5%/2.6%)\n- Gross max payoff if knock-in is not triggered: 5.7x (14.9%/2.6%) – you have upside up to 124.9%\n\n**Post Election Flow Skews - Buyers of Health Care (via ETFs) and Financials (mainly ETFs)**\n- **US Buyback Flows**\n- Cons Disc, Technology and Financials are the largest 3 sectors for US buybacks (over 70% of execution). We are seeing a seasonal increase in buybacks as we come out of the low seasonal month of the year (October) and should see increased buyback executions until year-end; another source of upside for the Cons Disc, Technology and Financials sectors.\n\n**Global Positioning,** Nigel Tupper, 11/14. Large long-only funds are more underweight Financials than any other sector and are (if via sector in all regions.\n\n**Future of Financials** conference hosted 90 public and private companies at our Future of Financials conference. We are raising our price objectives across most of our names. Three primary reasons why we think there is upside remaining after the recent rally: 1) improved outlook on both activity levels and interest rates, driving revenue upside; 2) potentially lower regulatory burden, particularly as new supervisory leadership can come with the new administration; and 3) relatively lighter positioning in US financials vs. other sectors. (Erika Najarian)\n\n**Trades Gaining Momentum: Finance-Related Assets vs. S&P 500**\n\n[IMAGE]\n(screenshot of financial chart)\nTrades Gaining Momentum: Finance-Related Assets vs. S&P 500 - Since November 1, 2016, showing line graph with Diversified Financials, Banks, Financials, and S&P 500 performance trends. Source: Kensho Technologies\n[/IMAGE]\n\nThe Flow Show, Michael Hartnett, 11/18. Violent rotation: record equity ETF inflow, record financials inflow, biggest bond outflow in 3.5 yrs, record EM debt outflow."
+    },
+    {
+      "message_type": "quoted_reply",
+      "message_content": {
+        "from_name": "Ens, Amanda",
+        "from_email": "[REDACTED]",
+        "to": [
+          {
+            "to_name": "Jeffrey E.",
+            "to_email": "[REDACTED]"
+          },
+          {
+            "to_name": "Rich Kahn",
+            "to_email": "[REDACTED]"
+          }
+        ],
+        "sent": "2016-11-22T14:15:00Z",
+        "importance": null,
+        "subject": "Financials: buy XLF call spreads",
+        "attachments": [],
+        "body": [
+          {
+            "message_type": "message",
+            "message_content": "[Earlier message content not fully visible in the screenshots provided]"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "from_name": "Jane Smith",
+  "from_email": "jane@smith.com",
+  "to": [
+    {
+      "to_name": "John Doe",
+      "to_email": "john@doe.com"
+    }
+  ],
+  "sent": "2025-04-23T18:31:02Z",
+  "importance": null,
+  "subject": "Secret details about [REDACTED]",
+  "attachments": [
+    "filename.txt",
+    "another_file.pdf"
+  ],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "Thanks for the warning, John. Appreciated. Even though it's a day late.\n\n---\nJane Smith\nColonist"
+    },
+    {
+      "message_type": "quoted_reply",
+      "message_content": {
+        "from_name": "John Doe",
+        "from_email": "john@doe.com",
+        "to": [
+          {
+            "to_name": "Jane Smith",
+            "to_email": "jane@smith.com"
+          },
+          {
+            "to_name": "Secret Agent Man",
+            "to_email": "[REDACTED]"
+          }
+        ],
+        "sent": "2025-04-23T18:25:43Z",
+        "importance": "HIGH",
+        "subject": "Fwd: Secret details about [REDACTED]",
+        "body": [
+          {
+            "message_type": "message",
+            "message_content": "Thought you might want to hear about this\n\nI know, I know, just don't shoot the messenger.\n\nHere's a few photos of this madness:\n[IMAGE]\n(blank or unavailable)\n[/IMAGE]\n\n[IMAGE]\n(screenshot of tweet)\nTweet from @johndoe \"Well, at least their drummers have a sense of rhythm.\" with 2,324 likes, 419 retweets/quotes, and 117 replies\n[/IMAGE]\n\nWild, eh?\n\nI think that's [REDACTED] next to [REDACTED]."
+          },
+          {
+            "message_type": "forward",
+            "message_content": {
+              "from_name": "Paul Revere",
+              "from_email": "redcoatwarnings@example.com",
+              "to": [
+                {
+                  "to_name": "John Doe",
+                  "to_email": "john@doe.com"
+                }
+              ],
+              "sent": "2025-04-22T09:10:51Z",
+              "importance": "HIGH",
+              "subject": "Secret details about [REDACTED]",
+              "body": [
+                {
+                  "message_type": "message",
+                  "message_content": "THE REDCOATS ARE COMING!!\n\nLorem ipsum eiusmod laboris esse elit reprehenderit in labore duis qui veniam cillum ut reprehenderit sed quis sunt aliquip occaecat anim.\n\nLabore sed pariatur dolor proident proident ex mollit non velit occaecat laborum culpa."
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
