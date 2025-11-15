@@ -1,0 +1,33 @@
+{
+  "from_name": "Darren Indyke",
+  "from_email": "[REDACTED]",
+  "to": [
+    {
+      "to_name": "Jackie Perczek",
+      "to_email": "[REDACTED]"
+    }
+  ],
+  "sent": "2011-04-07T13:27:00Z",
+  "subject": "Privileged and Confidential",
+  "importance": null,
+  "attachments": [
+    "Edwards Articles -1.doc",
+    "Edwards Articles - 12.pdf",
+    "Edwards Articles - 10.pdf",
+    "Edwards Articles - 9.doc",
+    "Edwards Articles - 8.doc",
+    "Edwards Articles - 7.doc",
+    "Edwards Articles - 6.doc",
+    "Edwards Articles - 5.doc",
+    "Edwards Articles - 3.doc",
+    "Edwards Articles - 2.doc",
+    "Edwards Article - 13.pdf",
+    "Part.012"
+  ],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "See additional articles.\n\nDarren K. Indyke\nDarren K. Indyke, PLLC\n301 East 66th Street, 10B\nNew York, New York 10065\n[REDACTED]"
+    }
+  ]
+}

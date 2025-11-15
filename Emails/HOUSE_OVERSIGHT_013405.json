@@ -1,0 +1,26 @@
+{
+  "from_name": "Darren Indyke",
+  "from_email": "[REDACTED]",
+  "to": [
+    {
+      "to_name": "Jackie Perczek",
+      "to_email": "[REDACTED]"
+    }
+  ],
+  "sent": "2011-04-07T13:44:00Z",
+  "subject": "Privileged and Confidential",
+  "importance": null,
+  "attachments": [
+    "Attorneys Say Miami Prosecutors Violated Crime Victims' Rights Act | Main Justice.pdf",
+    "Attorneys want Jeffrey Epstein agreement thrown out.pdf",
+    "Edwards Articles - Rush Interview 2.pdf",
+    "Edwards Articles - Rush Interview.pdf",
+    "Part.005"
+  ],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "Additional Articles.\n\nDarren K. Indyke\nDarren K. Indyke, PLLC\n301 East 66th Street, 10B\nNew York, New York 10065\nTelephone: (212) 517-2052\nDirect: (646) 862-4817\nFax: (212) 517-7779\nemail: dkiesq@aol.com"
+    }
+  ]
+}
