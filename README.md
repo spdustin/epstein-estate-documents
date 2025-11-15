@@ -6,7 +6,8 @@ This repository makes use of [git-lfs](https://git-lfs.com), which you should ha
 
 ## Status
 
-Up-to-date as of 2025-11-12 "Seventh Production"
+- First pass is up-to-date as of 2025-11-12 "Seventh Production"
+- Now working on structured data extracts from the 2,112 emails. It'll be slow-going as I'm hitting rate limits. If anyone cares to donate ($spdustin on cashapp, @spdustin on venmo) funds will go towards increasing subscription tiers. Anyone with ChatGPT, Claude, or Gemini **API** credits to comp, you can reach me on Signal (spdustin.94).
 
 ## What is this, anyway?
 
