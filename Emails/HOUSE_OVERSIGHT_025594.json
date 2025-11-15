@@ -74,7 +74,7 @@
                     "body": [
                       {
                         "message_type": "message",
-                        "message_content": "That would be great. I’ve been busy, but good. How are you? Heard you saw Madars."
+                        "message_content": "That would be great. I've been busy, but good. How are you? Heard you saw Madars."
                       },
                       {
                         "message_type": "quoted_reply",
@@ -154,7 +154,7 @@
                                             "body": [
                                               {
                                                 "message_type": "message",
-                                                "message_content": "I’m good. Good luck!"
+                                                "message_content": "I'm good. Good luck!"
                                               },
                                               {
                                                 "message_type": "quoted_reply",
