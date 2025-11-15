@@ -7,7 +7,7 @@
 
   "properties": {
     "from_name": { "type": "string" },
-    "from_email": { "type": "string", "format": "email" },
+    "from_email": { "type": "string"},
 
     "to": {
       "type": "array",
@@ -55,7 +55,7 @@
       "type": "object",
       "properties": {
         "to_name": { "type": "string" },
-        "to_email": { "type": "string", "format": "email" }
+        "to_email": { "type": "string" }
       },
       "required": ["to_name", "to_email"]
     },
@@ -92,7 +92,7 @@
       "type": "object",
       "properties": {
         "from_name": { "type": "string" },
-        "from_email": { "type": "string", "format": "email" },
+        "from_email": { "type": "string" },
 
         "to": {
           "type": "array",
