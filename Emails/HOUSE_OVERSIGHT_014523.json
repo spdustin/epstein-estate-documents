@@ -1,0 +1,50 @@
+{
+  "from_name": "Richard Kahn",
+  "from_email": "[REDACTED]",
+  "to": [
+    {
+      "to_name": "Jeffrey E.",
+      "to_email": "jeevacation@gmail.com"
+    }
+  ],
+  "sent": "2016-12-15T17:46:20Z",
+  "importance": "HIGH",
+  "subject": "Fwd: US Healthcare Year Ahead...Buy ACAD, AGN, ANTM, CELG, CVS, DHR, EW, EVHC, RARE, REGN, WBA",
+  "attachments": [
+    "image001.jpg",
+    "image002.jpg",
+    "image003.jpg",
+    "image004.jpg",
+    "image005.jpg",
+    "image006.jpg"
+  ],
+  "body": [
+    {
+      "message_type": "message",
+      "message_content": "attached are equity healthcare ideas"
+    },
+    {
+      "message_type": "forward",
+      "message_content": {
+        "from_name": "Ens, Amanda",
+        "from_email": "[REDACTED]",
+        "to": [
+          {
+            "to_name": "Rich Kahn",
+            "to_email": "[REDACTED]"
+          }
+        ],
+        "sent": "2016-12-15T15:59:39Z",
+        "importance": null,
+        "subject": "US Healthcare Year Ahead...Buy ACAD, AGN, ANTM, CELG, CVS, DHR, EW, EVHC, RARE, REGN, WBA",
+        "attachments": [],
+        "body": [
+          {
+            "message_type": "message",
+            "message_content": "The US team is out with their 2017 Year Ahead this morning (link) running through ALL sub-sectors with each analysts top picks for the next year.\n\n**Top Picks** – ACAD, AGN, ANTM, CELG, CVS, DHR, EW, EVHC, RARE, REGN, WBA\n\n## Washington DC Backdrop\n\nCome the clean sweep to the GOP & uncertainty around the ACA, key attention is paid by Andy Bressler to a review of the various scenarios that could play out early next year. With a repeal likely to happen well before a replace (essentially via the Budget Reconciliation process in Jan/Feb), Andy notes this is likely to include a repeal of both health insurance exchange subsidies & a phase-down of Medicaid expansion funding (albeit with a two or three year transition period).\n\nHe also expects a repeal of many of the larger HC related taxes in the ACA, including the HIX ($14.3bn in 2018), Medicad Tax (2.3%), pharma industry tax ($4.1bn in 2018) & Cadillac tax (revenue 2022).\n\n## As for the views by analysts...\n\n**Biotech (+)** – believe sector will outperform largely as pricing risk has diminished (although will remain in pockets) but pipeline growth remains. Ying's top picks are CELG & REGN; Tazeen's top picks are ACAD & EVHC.\n\n**Spec Pharma (-)** – headwinds remain w/ Sumant's top pick AGN given lower risk to reimbursement pressures & an under-appreciated pipeline. Leverage & CF remain the key focus for investors.\n\n**Tools/Animal Health (+)** – Derik notes more headline than real risks for policy which will create opportunities for a group growing MSD, although valuations remain above peers. TMO's pick is **DHR** & **EVHC**; In Animal Health, BDX in Diagnostics & DTI in Service; Tazeen's top analysts focus.\n\n**Medtech (=)** – Hopkins' expects a mixed bag in 2017 w/ stocks trading close to fair valuation lows; **EW** top pick given near growth / purest innovation story.\n\n## Facilities (–) – Fischbeck notes that uncertainty will remain an overhang for hospitals as repeal/replace a negative for the group (net losing 2-3mn exchange lives would be a ~12% EBITDA hit on any). Focus on company-specific stories like **EVHC**.\n\n## MCOs (=) – Fischbeck generally views Trump (especially around MA given historical support from GOP) w/ tailwinds from copayis tax & rising rates; ANTM top pick in given valuation & tailwinds.\n\n**Distribution/Tech (=)** – Vafigiette prefers pharmacies **CVS/WBA** given benefits from declining generic prices (which will remain an overhang for Distributors). HHS appointment –ve for HCIT."
+          }
+        ]
+      }
+    }
+  ]
+}
