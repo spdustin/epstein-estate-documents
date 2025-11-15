@@ -99,14 +99,19 @@
           "items": { "$ref": "#/$defs/recipient" }
         },
 
-        "sent": { "type": "string", "format": "date-time" },
+        "sent": {
+          "type": ["string", "null"],
+          "format": "date-time"
+        },
 
         "importance": {
           "type": ["string", "null"],
           "enum": ["LOW", "NORMAL", "HIGH", null]
         },
 
-        "subject": { "type": "string" },
+        "subject": {
+          "type": ["string", "null"]
+        },
 
         "attachments": {
           "type": "array",
@@ -121,9 +126,6 @@
       "required": [
         "from_name",
         "from_email",
-        "to",
-        "sent",
-        "subject",
         "body"
       ]
     }

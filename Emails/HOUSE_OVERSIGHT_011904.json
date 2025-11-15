@@ -29,7 +29,7 @@
         ],
         "sent": "2018-04-05T14:04:00Z",
         "importance": null,
-        "subject": null,
+        "subject": "",
         "attachments": [],
         "body": [
           {
@@ -42,9 +42,9 @@
               "from_name": "Tina Brown",
               "from_email": "[REDACTED]",
               "to": [],
-              "sent": "[REDACTED]",
+              "sent": "2018-04-05T13:41:00Z",
               "importance": null,
-              "subject": null,
+              "subject": "",
               "attachments": [],
               "body": [
                 {
