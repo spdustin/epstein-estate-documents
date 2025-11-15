@@ -20,7 +20,8 @@ Current differences between this release and the official US House of Representa
 
 ## Still to come:
 
-- [ ] Finish a more robust (but MUCH slower) OCR pipeline on the emails. This pipeline uses computer vision to segment headers, quoted replies, forwarded messages, etc.; it also extracts values from those headers to create _real_ metadata for organization/searching.
+- [ ] ~~Finish a more robust (but MUCH slower) OCR pipeline on the emails. This pipeline uses computer vision to segment headers, quoted replies, forwarded messages, etc.; it also extracts values from those headers to create _real_ metadata for organization/searching.~~
+- [ ] Finish a more robust (but MUCH slower) OCR pipeline on the emails. There is so much variation between email screenshots that fine-tuning existing models was taking too long for a volunteer project. LLM+Vision models, on the other hand, get the job done within minimal oversight.
 - [ ] Proper and useful filenames
 - [ ] Update the Opticon load file with the new filenames, keeping new per-page exports alongside the full-doc merges I've already made, so it will still load into Octicon-compatible DMSs (Relativity, Concordance, etc.)
 - [ ] Update the Concordance DAT file with actually useful and more rich metadata, which should load properly into Concordance, Summation, Relativity, etc.
